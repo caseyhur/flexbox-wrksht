@@ -369,22 +369,32 @@ section#justify-content-section {
 }
 
 .justify-content-space-between-parent-container {
+  display: flex;
+  justify-content: space-between;
   /* place your code here */
 }
 
 .justify-content-space-around-parent-container {
+  display: flex;
+  justify-content: space-around;
   /* place your code here */
 }
 
 .justify-content-space-evenly-parent-container {
+  display: flex;
+  justify-content: space-evenly;
   /* place your code here */
 }
 
 .justify-content-flex-start-parent-container {
+  display: flex;
+  justify-content: flex-start;
   /* place your code here */
 }
 
 .justify-content-flex-end-parent-container {
+  display: flex;
+  justify-content: flex-end;
   /* place your code here */
 }
 
